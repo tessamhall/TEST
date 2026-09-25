@@ -1,0 +1,2 @@
+Hello from the example folder.
+This file was added as a test of pushing to GitHub.
